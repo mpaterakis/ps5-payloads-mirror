@@ -1,5 +1,49 @@
 [
   {
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.20.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.20.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.20/ftpsrv-ps5.elf",
+    "description": "A simple FTP server that accepts connections on port 2121",
+    "last_update": "2026-05-12",
+    "version": "v0.20",
+    "checksum": "8f305a959fb9d70fd8d52ba88409e0d5a1632e83d4ecdd38646a0a33e54089da"
+  },
+  {
+    "name": "klogsrv",
+    "filename": "klogsrv_v0.8.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/klogsrv_v0.8.elf",
+    "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.8/klogsrv-ps5.elf",
+    "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
+    "last_update": "2026-05-12",
+    "version": "v0.8",
+    "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
+  },
+  {
+    "name": "shsrv",
+    "filename": "shsrv_v0.18.2.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/shsrv_v0.18.2.elf",
+    "source": "https://github.com/ps5-payload-dev/shsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/shsrv/releases/download/v0.18.2/shsrv-ps5.elf",
+    "description": "A simple telnet-like shell server for jailbroken PS5s that accepts connections on port 2323",
+    "last_update": "2026-05-12",
+    "version": "v0.18.2",
+    "checksum": "990f7fbcf3761f97db9b97638d3e119352447fb904b2cf70b191c02289e1c69e"
+  },
+  {
+    "name": "elfldr",
+    "filename": "elfldr_v0.23.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.23.elf",
+    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.23/elfldr-ps5.elf",
+    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
+    "last_update": "2026-05-12",
+    "version": "v0.23",
+    "checksum": "092d16ee0ede0c494947efd38d1a17bbd7cc4b022d3858ea898833c188c703e8"
+  },
+  {
     "name": "ShadowMountPlus",
     "filename": "ShadowMountPlus_1.6beta10.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.6beta10.elf",
@@ -57,17 +101,6 @@
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
   },
   {
-    "name": "ftpsrv",
-    "filename": "ftpsrv_v0.19.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.19.elf",
-    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.19/ftpsrv-ps5.elf",
-    "description": "A simple FTP server that accepts connections on port 2121",
-    "last_update": "2026-04-07",
-    "version": "v0.19",
-    "checksum": "e6c1babbfd5e1b766d12b659853b514b9faedf6333cbe8cb514b1a3e79b7ce39"
-  },
-  {
     "name": "websrv",
     "filename": "websrv_v0.30.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/websrv_v0.30.1.elf",
@@ -77,39 +110,6 @@
     "last_update": "2026-04-03",
     "version": "v0.30.1",
     "checksum": "5b5d55ba51c8b5a4fb9929f690efc4ce488f86fe3d0f22223106643be9d5c2ab"
-  },
-  {
-    "name": "klogsrv",
-    "filename": "klogsrv_v0.7.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/klogsrv_v0.7.2.elf",
-    "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.7.2/klogsrv-ps5.elf",
-    "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
-    "last_update": "2026-04-02",
-    "version": "v0.7.2",
-    "checksum": "c932fd185bc0e7e24beb45ebe2ddc88940c7ff15c589ed4ae7fe6086157c69d2"
-  },
-  {
-    "name": "shsrv",
-    "filename": "shsrv_v0.18.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/shsrv_v0.18.1.elf",
-    "source": "https://github.com/ps5-payload-dev/shsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/shsrv/releases/download/v0.18.1/shsrv-ps5.elf",
-    "description": "A simple telnet-like shell server for jailbroken PS5s that accepts connections on port 2323",
-    "last_update": "2026-04-02",
-    "version": "v0.18.1",
-    "checksum": "daab08c87c364f86dce143e6672f1f68e520760099d24a8eacf3c5c6d6c08c57"
-  },
-  {
-    "name": "elfldr",
-    "filename": "elfldr_v0.22.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.22.2.elf",
-    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.22.2/elfldr-ps5.elf",
-    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
-    "last_update": "2026-04-02",
-    "version": "v0.22.2",
-    "checksum": "b456a30d5f1d4941b985a44e06613018f608cc9c62bf992e2564494d365216cd"
   },
   {
     "name": "garlic-savemgr",
