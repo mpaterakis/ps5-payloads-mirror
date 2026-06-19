@@ -34,17 +34,5 @@
     "last_update": "2026-04-11",
     "version": "0.9.0",
     "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
-  },
-  {
-    "name": "ps5-fw-spoof",
-    "filename": "",
-    "url": "",
-    "source": "https://github.com/illusionyy/ps5-fw-spoof/releases",
-    "source_direct": "",
-    "asset_pattern": "ps5-fw-spoof",
-    "description": "Patch PS4 SDK + PS5 Update version in kernel data to `99.99` without hardcoded offsets.",
-    "last_update": "1900-01-01",
-    "version": "v0.0",
-    "checksum": ""
   }
 ]
