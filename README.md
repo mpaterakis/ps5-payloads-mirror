@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps-patch-system** | `v0.0` | App patching system for PS4/PS5 | `1900-01-01` | [Source](https://github.com/illusionyy/ps-patch-system/releases) | [Download]() |
+| **ps-patch-system** | `27805912059` | App patching system for PS4/PS5 | `2026-06-19` | [Source](https://github.com/illusionyy/ps-patch-system/releases) | [Download](https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_27805912059.elf) |
 <!-- PAYLOADS_END -->
 
 ## Support & Suggestions
