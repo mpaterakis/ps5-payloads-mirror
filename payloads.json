@@ -12,28 +12,28 @@
     "checksum": "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
   },
   {
-    "name": "chukei-dns",
-    "filename": "",
-    "url": "",
-    "source": "https://github.com/Al-Azif/chukei-dns/releases",
-    "source_direct": "",
-    "asset_pattern": "chukei-ps5",
-    "description": "Lightweight DNS relay server with DNS-over-HTTPS (DoH) and man-in-the-middle (MitM) functionality ",
-    "last_update": "1900-01-01",
-    "version": "v0.0",
-    "checksum": ""
-  },
-  {
     "name": "np-fake-signin",
-    "filename": "",
-    "url": "",
+    "filename": "np-fake-signin_v1.3.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/np-fake-signin_v1.3.elf",
     "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
-    "source_direct": "",
+    "source_direct": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.3/np-fake-signin-ps5.elf",
     "asset_pattern": "np-fake-signin-ps5",
     "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
-    "last_update": "1900-01-01",
-    "version": "v0.0",
-    "checksum": ""
+    "last_update": "2026-05-15",
+    "version": "v1.3",
+    "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+  },
+  {
+    "name": "chukei-dns",
+    "filename": "chukei-dns_0.9.0.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/chukei-dns_0.9.0.elf",
+    "source": "https://github.com/Al-Azif/chukei-dns/releases",
+    "source_direct": "https://github.com/Al-Azif/chukei-dns/releases/download/0.9.0/chukei-ps5.elf",
+    "asset_pattern": "chukei-ps5",
+    "description": "Lightweight DNS relay server with DNS-over-HTTPS (DoH) and man-in-the-middle (MitM) functionality ",
+    "last_update": "2026-04-11",
+    "version": "0.9.0",
+    "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
   },
   {
     "name": "ps5-fw-spoof",
