@@ -13,6 +13,7 @@ from datetime import datetime
 JSON_FILE = "payloads.json"
 PAYLOADS_DIR = "payloads"
 BASE_URL = "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror"
+REPO_OWNER = "mpaterakis"
 
 def get_repo_info(url):
     # Extract domain, owner and repo from various Git URL formats
@@ -158,7 +159,7 @@ If you have suggestions for a new payload to be added or if there's an important
 
 
 def get_mirror_assets():
-    owner = "mpaterakis"
+    owner = REPO_OWNER
     repo = "ps5-payloads-mirror"
     try:
         cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/tags/payloads-mirror"]
@@ -172,7 +173,7 @@ def get_mirror_assets():
 
 def cleanup_release_assets():
     print("\nChecking for stale release assets to clean up...")
-    owner = "mpaterakis"
+    owner = REPO_OWNER
     repo = "ps5-payloads-mirror"
     
     try:
