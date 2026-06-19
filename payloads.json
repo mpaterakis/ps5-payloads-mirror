@@ -10,5 +10,41 @@
     "last_update": "2026-06-19",
     "version": "27805912059",
     "checksum": "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
+  },
+  {
+    "name": "chukei-dns",
+    "filename": "",
+    "url": "",
+    "source": "https://github.com/Al-Azif/chukei-dns/releases",
+    "source_direct": "",
+    "asset_pattern": "chukei-ps5",
+    "description": "Lightweight DNS relay server with DNS-over-HTTPS (DoH) and man-in-the-middle (MitM) functionality ",
+    "last_update": "1900-01-01",
+    "version": "v0.0",
+    "checksum": ""
+  },
+  {
+    "name": "np-fake-signin",
+    "filename": "",
+    "url": "",
+    "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
+    "source_direct": "",
+    "asset_pattern": "np-fake-signin-ps5",
+    "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
+    "last_update": "1900-01-01",
+    "version": "v0.0",
+    "checksum": ""
+  },
+  {
+    "name": "ps5-fw-spoof",
+    "filename": "",
+    "url": "",
+    "source": "https://github.com/illusionyy/ps5-fw-spoof/releases",
+    "source_direct": "",
+    "asset_pattern": "ps5-fw-spoof",
+    "description": "Patch PS4 SDK + PS5 Update version in kernel data to `99.99` without hardcoded offsets.",
+    "last_update": "1900-01-01",
+    "version": "v0.0",
+    "checksum": ""
   }
 ]
