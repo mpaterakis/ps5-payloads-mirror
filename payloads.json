@@ -5,7 +5,7 @@
     "url": "",
     "source": "https://github.com/illusionyy/ps-patch-system/releases",
     "source_direct": "",
-    "asset_pattern": "zhttp",
+    "asset_pattern": "loader-prospero",
     "description": "App patching system for PS4/PS5",
     "last_update": "1900-01-01",
     "version": "v0.0",
