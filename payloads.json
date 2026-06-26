@@ -1,15 +1,15 @@
 [
   {
     "name": "ps-patch-system",
-    "filename": "ps-patch-system_27805912059.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_27805912059.elf",
+    "filename": "ps-patch-system_28160811698.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_28160811698.elf",
     "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/27805912059/patch-bundle-loader-prospero.elf",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/28160811698/patch-bundle-loader-prospero.elf",
     "asset_pattern": "loader-prospero",
     "description": "App patching system for PS4/PS5",
-    "last_update": "2026-06-19",
-    "version": "27805912059",
-    "checksum": "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
+    "last_update": "2026-06-25",
+    "version": "28160811698",
+    "checksum": "e41e5beae701c5d641e8aadc406945268ffb973a466929256c4b10fad24ad602"
   },
   {
     "name": "np-fake-signin",
