@@ -12,6 +12,18 @@
     "checksum": "e41e5beae701c5d641e8aadc406945268ffb973a466929256c4b10fad24ad602"
   },
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v3.3.22.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v3.3.22.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.22/ps5upload-3.3.22.elf",
+    "asset_pattern": "ps5upload",
+    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
+    "last_update": "2026-06-17",
+    "version": "v3.3.22",
+    "checksum": "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
+  },
+  {
     "name": "np-fake-signin",
     "filename": "np-fake-signin_v1.3.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/np-fake-signin_v1.3.elf",
@@ -34,17 +46,5 @@
     "last_update": "2026-04-11",
     "version": "0.9.0",
     "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "",
-    "url": "",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "",
-    "asset_pattern": "ps5upload",
-    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "",
-    "version": "",
-    "checksum": ""
   }
 ]
