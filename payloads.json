@@ -41,7 +41,7 @@
     "url": "",
     "source": "https://github.com/phantomptr/ps5upload/releases",
     "source_direct": "",
-    "asset_pattern": "ps5upload*.elf",
+    "asset_pattern": "ps5upload",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
     "last_update": "",
     "version": "",
