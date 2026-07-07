@@ -24,6 +24,18 @@
     "checksum": "a4caeb9ea41d9bed25785ab692a325ec5daa3a19fefb72737d23de3867be6e5e"
   },
   {
+    "name": "CheatRunner",
+    "filename": "CheatRunner_v0.14.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.14.elf",
+    "source": "https://github.com/notmaj0r/CheatRunner/releases",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.14/CheatRunner.elf",
+    "description": "CheatRunner is a Cheat Trainer for PS5.",
+    "last_update": "2026-06-18",
+    "version": "v0.14",
+    "checksum": "5ffe8ed97fd6021cfad2b44a1be68c1b9f6e84c1e3a8d925f9e3b975235aa99f",
+    "include_prerelease": "true"
+  },
+  {
     "name": "np-fake-signin",
     "filename": "np-fake-signin_v1.3.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/np-fake-signin_v1.3.elf",
@@ -46,17 +58,5 @@
     "last_update": "2026-04-11",
     "version": "0.9.0",
     "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
-  },
-  {
-    "name": "CheatRunner",
-    "filename": "",
-    "url": "",
-    "source": "https://github.com/notmaj0r/CheatRunner/releases",
-    "source_direct": "",
-    "description": "CheatRunner is a Cheat Trainer for PS5.",
-    "last_update": "",
-    "version": "",
-    "checksum": "",
-    "include_prerelease": "true"
   }
 ]
