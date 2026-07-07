@@ -35,10 +35,12 @@ def get_repo_info(url):
         return domain, owner, repo
     return None, None, None
 
-def get_latest_release(domain, owner, repo):
+def get_latest_release(domain, owner, repo, include_prerelease):
     try:
         if domain == "github.com":
             cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/latest"]
+            if include_prerelease:
+                cmd.extend("--jq", ".[0]")
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
             return json.loads(result.stdout)
         else:
@@ -234,7 +236,7 @@ def update_payloads():
             continue
             
         print(f"Checking {owner}/{repo_name} on {domain}...")
-        release = get_latest_release(domain, owner, repo_name)
+        release = get_latest_release(domain, owner, repo_name, item.get("include_prerelease", False))
         if not release:
             continue
             
