@@ -38,9 +38,11 @@ def get_repo_info(url):
 def get_latest_release(domain, owner, repo, include_prerelease):
     try:
         if domain == "github.com":
-            cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/latest"]
+            cmd = ["gh", "api"]
             if include_prerelease:
-                cmd.extend(["--jq", ".[0]"])
+                cmd.extend([f"repos/{owner}/{repo}/releases", "--jq", ".[0]"])
+            else:
+                cmd.append(f"repos/{owner}/{repo}/releases/latest")
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
             return json.loads(result.stdout)
         else:
