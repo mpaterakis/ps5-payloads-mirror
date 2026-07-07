@@ -236,7 +236,7 @@ def update_payloads():
             continue
             
         print(f"Checking {owner}/{repo_name} on {domain}...")
-        release = get_latest_release(domain, owner, repo_name, item.get("include_prerelease", False))
+        release = get_latest_release(domain, owner, repo_name, bool(item.get("include_prerelease", False)))
         if not release:
             continue
             
