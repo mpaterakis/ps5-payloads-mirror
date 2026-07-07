@@ -57,6 +57,6 @@
     "last_update": "",
     "version": "",
     "checksum": "",
-    "include_prerelease": True
+    "include_prerelease": "true"
   }
 ]
