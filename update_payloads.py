@@ -40,7 +40,7 @@ def get_latest_release(domain, owner, repo, include_prerelease):
         if domain == "github.com":
             cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/latest"]
             if include_prerelease:
-                cmd.extend("--jq", ".[0]")
+                cmd.extend(["--jq", ".[0]"])
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
             return json.loads(result.stdout)
         else:
