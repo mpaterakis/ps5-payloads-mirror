@@ -33,7 +33,8 @@
     "description": "App patching system for PS4/PS5",
     "last_update": "2026-07-03",
     "version": "28670295594",
-    "checksum": "a4caeb9ea41d9bed25785ab692a325ec5daa3a19fefb72737d23de3867be6e5e"
+    "checksum": "a4caeb9ea41d9bed25785ab692a325ec5daa3a19fefb72737d23de3867be6e5e",
+    "include_prerelease": "true"
   },
   {
     "name": "np-fake-signin",
