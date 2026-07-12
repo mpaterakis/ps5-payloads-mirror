@@ -1,28 +1,28 @@
 [
   {
     "name": "ps-patch-system",
-    "filename": "ps-patch-system_29154815316.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29154815316.elf",
+    "filename": "ps-patch-system_29162495658.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29162495658.elf",
     "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29154815316/patch-bundle-loader-prospero.elf",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29162495658/patch-bundle-loader-prospero.elf",
     "asset_pattern": "loader-prospero",
     "description": "App patching system for PS4/PS5",
     "last_update": "2026-07-11",
-    "version": "29154815316",
-    "checksum": "b76d6c0f020d5f9cef14ff724a67c1b01def68859f664fb5553d4994e01aefef",
+    "version": "29162495658",
+    "checksum": "88ee30a9c737d13a94e124de0c653b9a6fa83190f2733eed229d8259394dcad9",
     "include_prerelease": "true"
   },
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v3.4.0.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v3.4.0.elf",
+    "filename": "ps5upload_v4.0.0.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v4.0.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v3.4.0/ps5upload-3.4.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.0.0/ps5upload-4.0.0.elf",
     "asset_pattern": "ps5upload",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-07-09",
-    "version": "v3.4.0",
-    "checksum": "a3e48a38e0591a303b539a3dc0fe512b292135ff6ba3c2e7315e28c3ce3f8234"
+    "last_update": "2026-07-11",
+    "version": "v4.0.0",
+    "checksum": "ba8de000b8a20a624352f445b8e2d4ead541c191eb3c3efece4ff5ea01745ed4"
   },
   {
     "name": "CheatRunner",
