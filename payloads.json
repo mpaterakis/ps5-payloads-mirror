@@ -1,15 +1,15 @@
 [
   {
     "name": "ps-patch-system",
-    "filename": "ps-patch-system_29162495658.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29162495658.elf",
+    "filename": "ps-patch-system_29182643004.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29182643004.elf",
     "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29162495658/patch-bundle-loader-prospero.elf",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29182643004/patch-bundle-loader-prospero.elf",
     "asset_pattern": "loader-prospero",
     "description": "App patching system for PS4/PS5",
-    "last_update": "2026-07-11",
-    "version": "29162495658",
-    "checksum": "88ee30a9c737d13a94e124de0c653b9a6fa83190f2733eed229d8259394dcad9",
+    "last_update": "2026-07-12",
+    "version": "29182643004",
+    "checksum": "f7b2544a281f82d7cbc5042c280705d241894cefd2cfb7f535f213bcdf5fd0a5",
     "include_prerelease": "true"
   },
   {
