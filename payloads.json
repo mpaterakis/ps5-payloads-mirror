@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v4.1.1.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v4.1.1.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.1.1/ps5upload-4.1.1.elf",
+    "asset_pattern": "ps5upload",
+    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
+    "last_update": "2026-07-18",
+    "version": "v4.1.1",
+    "checksum": "735649781657227bb6a95e90e606df73bf6b54fdb5e5831ef35431a7c014f55b"
+  },
+  {
     "name": "ps-patch-system",
     "filename": "ps-patch-system_29235747642.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29235747642.elf",
@@ -11,18 +23,6 @@
     "version": "29235747642",
     "checksum": "88b218c9c4b5dcae33dd6d79163b79df0b34ef4e20828c6721250abfcd0bc857",
     "include_prerelease": "true"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v4.0.0.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v4.0.0.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.0.0/ps5upload-4.0.0.elf",
-    "asset_pattern": "ps5upload",
-    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-07-11",
-    "version": "v4.0.0",
-    "checksum": "ba8de000b8a20a624352f445b8e2d4ead541c191eb3c3efece4ff5ea01745ed4"
   },
   {
     "name": "CheatRunner",
