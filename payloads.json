@@ -1,5 +1,30 @@
 [
   {
+    "name": "ps-patch-system",
+    "filename": "ps-patch-system_29723629256.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29723629256.elf",
+    "source": "https://github.com/illusionyy/ps-patch-system/releases",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29723629256/patch-bundle-loader-prospero.elf",
+    "asset_pattern": "loader-prospero",
+    "description": "App patching system for PS4/PS5",
+    "last_update": "2026-07-20",
+    "version": "29723629256",
+    "checksum": "91fd370a15228620b6848fddb2dc0edd5bc1effd80d437cc3c371d4fc1a1c0c6",
+    "include_prerelease": "true"
+  },
+  {
+    "name": "CheatRunner",
+    "filename": "CheatRunner_v0.16.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.16.elf",
+    "source": "https://github.com/notmaj0r/CheatRunner/releases",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.16/CheatRunner.elf",
+    "description": "CheatRunner is a Cheat Trainer for PS5.",
+    "last_update": "2026-07-20",
+    "version": "v0.16",
+    "checksum": "a5483253926a0188c76a68101714cbd9bbc9c2305e0b071fad775d752da995bb",
+    "include_prerelease": "true"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v4.1.2.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v4.1.2.elf",
@@ -10,31 +35,6 @@
     "last_update": "2026-07-19",
     "version": "v4.1.2",
     "checksum": "4ecdd43a638ebcf1028d1648ee3534ba776e7ba80e1f8c04b8f5c2e827700c93"
-  },
-  {
-    "name": "ps-patch-system",
-    "filename": "ps-patch-system_29235747642.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_29235747642.elf",
-    "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/29235747642/patch-bundle-loader-prospero.elf",
-    "asset_pattern": "loader-prospero",
-    "description": "App patching system for PS4/PS5",
-    "last_update": "2026-07-13",
-    "version": "29235747642",
-    "checksum": "88b218c9c4b5dcae33dd6d79163b79df0b34ef4e20828c6721250abfcd0bc857",
-    "include_prerelease": "true"
-  },
-  {
-    "name": "CheatRunner",
-    "filename": "CheatRunner_v0.15.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.15.elf",
-    "source": "https://github.com/notmaj0r/CheatRunner/releases",
-    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.15/CheatRunner.elf",
-    "description": "CheatRunner is a Cheat Trainer for PS5.",
-    "last_update": "2026-07-07",
-    "version": "v0.15",
-    "checksum": "b48a2424d90a4d34bca7824ce33fae6a79c07281a87a38d080776a1e6987cc68",
-    "include_prerelease": "true"
   },
   {
     "name": "np-fake-signin",
