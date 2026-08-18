@@ -1,5 +1,18 @@
 [
   {
+    "name": "ps-patch-system",
+    "filename": "ps-patch-system_32030798107.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_32030798107.elf",
+    "source": "https://github.com/illusionyy/ps-patch-system/releases",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/32030798107/patch-bundle-loader-prospero.elf",
+    "asset_pattern": "loader-prospero",
+    "description": "App patching system for PS4/PS5",
+    "last_update": "2026-08-17",
+    "version": "32030798107",
+    "checksum": "9893c4e1df0b84b578212878d45d61a8ece8358ef4f1ce5783d3c194568fcc82",
+    "include_prerelease": "true"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v5.2.1.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.2.1.elf",
@@ -10,19 +23,6 @@
     "last_update": "2026-08-12",
     "version": "v5.2.1",
     "checksum": "0c23f88146a314c922953c326bc26d1a8adb871ba3244b76ce4cb6eca43977b3"
-  },
-  {
-    "name": "ps-patch-system",
-    "filename": "ps-patch-system_31367762787.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_31367762787.elf",
-    "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/31367762787/patch-bundle-loader-prospero.elf",
-    "asset_pattern": "loader-prospero",
-    "description": "App patching system for PS4/PS5",
-    "last_update": "2026-08-10",
-    "version": "31367762787",
-    "checksum": "efcee120c0e0a8a6e84e2664ba05f983827012c228f80c2db3fc866ff912e86c",
-    "include_prerelease": "true"
   },
   {
     "name": "CheatRunner",
