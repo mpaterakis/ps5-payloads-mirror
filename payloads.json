@@ -1,27 +1,27 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.17.3.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.17.3.elf",
+    "filename": "ps5upload_v5.17.7.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.17.7.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.17.3/ps5upload-5.17.3.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.17.7/ps5upload-5.17.7.elf",
     "asset_pattern": "ps5upload",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
     "last_update": "2026-09-08",
-    "version": "v5.17.3",
-    "checksum": "f81e802a5ec7588fd98461f079aa6643a0e493cd21a8129080477df05a4b5932"
+    "version": "v5.17.7",
+    "checksum": "0fe96f274a9720aba66de8d6ea385f792cbca42e6cff7549685d34c9263c9b5d"
   },
   {
     "name": "ps-patch-system",
-    "filename": "ps-patch-system_32151111844.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_32151111844.elf",
+    "filename": "ps-patch-system_34252662366.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_34252662366.elf",
     "source": "https://github.com/illusionyy/ps-patch-system/releases",
-    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/32151111844/patch-bundle-loader-prospero.elf",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/34252662366/patch-bundle-loader-prospero.elf",
     "asset_pattern": "loader-prospero",
     "description": "App patching system for PS4/PS5",
-    "last_update": "2026-08-18",
-    "version": "32151111844",
-    "checksum": "8300db1e4d5e2004534c534c6154f8bf3eb8e12f02f443b0bf68f12bc695a025",
+    "last_update": "2026-09-08",
+    "version": "34252662366",
+    "checksum": "9050cd75509a28966de0d03a6640ce7266db107a58419a8cac6833b9664739e3",
     "include_prerelease": "true"
   },
   {
