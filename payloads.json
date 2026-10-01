@@ -1,15 +1,27 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.39.1.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.39.1.elf",
+    "filename": "ps5upload_v5.41.0.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.41.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.39.1/ps5upload-5.39.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.41.0/ps5upload-5.41.0.elf",
     "asset_pattern": "ps5upload",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-09-29",
-    "version": "v5.39.1",
-    "checksum": "a50d66033f66cb9d6600c810066b699e59b1a0cc3d7e98bffd5a0b6eb9ebd1a3"
+    "last_update": "2026-10-01",
+    "version": "v5.41.0",
+    "checksum": "90db08434228a08554e06a949f26457fb25c9b607f126fa63616b8d261426dee"
+  },
+  {
+    "name": "CheatRunner",
+    "filename": "CheatRunner_v0.17.1.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.1.elf",
+    "source": "https://github.com/notmaj0r/CheatRunner/releases",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.1/CheatRunner.elf",
+    "description": "CheatRunner is a Cheat Trainer for PS5.",
+    "last_update": "2026-09-30",
+    "version": "v0.17.1",
+    "checksum": "6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212",
+    "include_prerelease": "true"
   },
   {
     "name": "ps-patch-system",
@@ -22,18 +34,6 @@
     "last_update": "2026-09-08",
     "version": "34252662366",
     "checksum": "9050cd75509a28966de0d03a6640ce7266db107a58419a8cac6833b9664739e3",
-    "include_prerelease": "true"
-  },
-  {
-    "name": "CheatRunner",
-    "filename": "CheatRunner_v0.17.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.elf",
-    "source": "https://github.com/notmaj0r/CheatRunner/releases",
-    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17/CheatRunner.elf",
-    "description": "CheatRunner is a Cheat Trainer for PS5.",
-    "last_update": "2026-07-30",
-    "version": "v0.17",
-    "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773",
     "include_prerelease": "true"
   },
   {
