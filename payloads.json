@@ -1,5 +1,17 @@
 [
   {
+    "name": "np-fake-signin",
+    "filename": "np-fake-signin_v1.4.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/np-fake-signin_v1.4.elf",
+    "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.4/np-fake-signin-ps5.elf",
+    "asset_pattern": "np-fake-signin-ps5",
+    "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
+    "last_update": "2026-10-02",
+    "version": "v1.4",
+    "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v5.41.0.elf",
     "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.41.0.elf",
@@ -13,14 +25,14 @@
   },
   {
     "name": "CheatRunner",
-    "filename": "CheatRunner_v0.17.1.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.1.elf",
+    "filename": "CheatRunner_v0.17.2.elf",
+    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.2.elf",
     "source": "https://github.com/notmaj0r/CheatRunner/releases",
-    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.1/CheatRunner.elf",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.2/CheatRunner.elf",
     "description": "CheatRunner is a Cheat Trainer for PS5.",
-    "last_update": "2026-09-30",
-    "version": "v0.17.1",
-    "checksum": "6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212",
+    "last_update": "2026-10-01",
+    "version": "v0.17.2",
+    "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f",
     "include_prerelease": "true"
   },
   {
@@ -35,18 +47,6 @@
     "version": "34252662366",
     "checksum": "9050cd75509a28966de0d03a6640ce7266db107a58419a8cac6833b9664739e3",
     "include_prerelease": "true"
-  },
-  {
-    "name": "np-fake-signin",
-    "filename": "np-fake-signin_v1.3.elf",
-    "url": "https://github.com/mpaterakis/ps5-payloads-mirror/releases/download/payloads-mirror/np-fake-signin_v1.3.elf",
-    "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.3/np-fake-signin-ps5.elf",
-    "asset_pattern": "np-fake-signin-ps5",
-    "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
-    "last_update": "2026-05-15",
-    "version": "v1.3",
-    "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
   },
   {
     "name": "chukei-dns",
